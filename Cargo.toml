@@ -6,6 +6,8 @@ license = "LGPL-3.0-or-later"
 readme = "README.md"
 authors = ["Hendrik Böck <hendrikboeck.dev@protonmail.com>"]
 description = "A command-line tool to detect broken or stale desktop entries on Linux systems."
+repository = "https://github.com/hendrikboeck/desktop-scout"
+homepage = "https://github.com/hendrikboeck/desktop-scout"
 
 [dependencies]
 anyhow = "1.0.100"
