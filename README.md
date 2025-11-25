@@ -81,4 +81,12 @@ This project uses `just` for command management.
 - **Run**: `just run`
 - **Test**: `just test`
 
-To enable `tokio
+To enable `tokio-console` support for debugging async tasks:
+
+```sh
+just run-console
+```
+
+## License
+
+This project is licensed under the LGPL-3.0 License. See the [LICENSE](LICENSE) file for details.
