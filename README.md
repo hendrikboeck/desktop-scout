@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/hendrikboeck/desktop-scout">
-    <img src="https://raw.githubusercontent.com/hendrikboeck/desktop-scout/main/.github/md/icon_x1024.png" alt="Logo" width="128" height="128">
+    <img src="https://raw.githubusercontent.com/hendrikboeck/desktop-scout/main/.github/md/icon_x682.png" alt="Logo" width="128" height="128">
 </a>
 
 <h1 align="center">desktop-scout <code>v0.1.0</code></h1>
