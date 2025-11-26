@@ -1,4 +1,15 @@
-# desktop-scout
+<br />
+<div align="center">
+<a href="https://github.com/hendrikboeck/desktop-scout">
+    <img src="https://raw.githubusercontent.com/hendrikboeck/desktop-scout/main/.github/md/icon_x1024.png" alt="Logo" width="128" height="128">
+</a>
+
+<h1 align="center">desktop-scout <code>v0.1.0</code></h1>
+
+<p align="center">
+    Find broken and stale .desktop files on Linux <i>(written in Rust, btw.)</i>
+</p>
+</div>
 
 `desktop-scout` is a command-line utility designed to detect broken or stale `.desktop` files on Linux systems. It scans standard application directories (XDG data directories, Flatpak exports, Snap exports) and validates the `Exec` and `TryExec` keys within each entry to ensure they resolve to executable files on the current system.
 
